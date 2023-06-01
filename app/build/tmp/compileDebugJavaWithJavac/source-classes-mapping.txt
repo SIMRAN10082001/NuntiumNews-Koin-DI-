@@ -1,0 +1,63 @@
+com/application/nuntium/databinding/FragmentUserBinding.java
+ com.application.nuntium.databinding.FragmentUserBinding
+com/application/nuntium/databinding/FragmentBusinessBinding.java
+ com.application.nuntium.databinding.FragmentBusinessBinding
+com/application/nuntium/BuildConfig.java
+ com.application.nuntium.BuildConfig
+com/application/nuntium/databinding/FragmentSportBinding.java
+ com.application.nuntium.databinding.FragmentSportBinding
+com/application/nuntium/databinding/FragmentHealthBinding.java
+ com.application.nuntium.databinding.FragmentHealthBinding
+com/application/nuntium/databinding/ActivityChoicesBinding.java
+ com.application.nuntium.databinding.ActivityChoicesBinding
+com/application/nuntium/local/NewsDao_Impl.java
+ com.application.nuntium.local.NewsDao_Impl
+ com.application.nuntium.local.NewsDao_Impl$1
+ com.application.nuntium.local.NewsDao_Impl$2
+ com.application.nuntium.local.NewsDao_Impl$3
+ com.application.nuntium.local.NewsDao_Impl$4
+com/application/nuntium/databinding/SourceFileBinding.java
+ com.application.nuntium.databinding.SourceFileBinding
+com/application/nuntium/databinding/HomeCategoryChipBinding.java
+ com.application.nuntium.databinding.HomeCategoryChipBinding
+com/application/nuntium/databinding/FragmentPoliticsBinding.java
+ com.application.nuntium.databinding.FragmentPoliticsBinding
+com/application/nuntium/databinding/FragmentGamingBinding.java
+ com.application.nuntium.databinding.FragmentGamingBinding
+com/application/nuntium/databinding/ActivityMainBinding.java
+ com.application.nuntium.databinding.ActivityMainBinding
+com/application/nuntium/databinding/ImgCardHomeBinding.java
+ com.application.nuntium.databinding.ImgCardHomeBinding
+com/application/nuntium/databinding/ActivitySignUpBinding.java
+ com.application.nuntium.databinding.ActivitySignUpBinding
+com/application/nuntium/databinding/FragmentHomeBinding.java
+ com.application.nuntium.databinding.FragmentHomeBinding
+com/application/nuntium/databinding/ActivityWebBinding.java
+ com.application.nuntium.databinding.ActivityWebBinding
+com/application/nuntium/databinding/ActivityHomeBinding.java
+ com.application.nuntium.databinding.ActivityHomeBinding
+com/application/nuntium/databinding/FragmentSavedBinding.java
+ com.application.nuntium.databinding.FragmentSavedBinding
+com/application/nuntium/databinding/ActivitySearchBinding.java
+ com.application.nuntium.databinding.ActivitySearchBinding
+com/application/nuntium/databinding/ActivityIntro3Binding.java
+ com.application.nuntium.databinding.ActivityIntro3Binding
+com/application/nuntium/databinding/RecommendedPlateBinding.java
+ com.application.nuntium.databinding.RecommendedPlateBinding
+com/application/nuntium/databinding/ImgcardBinding.java
+ com.application.nuntium.databinding.ImgcardBinding
+com/application/nuntium/databinding/NewsFeedTileBinding.java
+ com.application.nuntium.databinding.NewsFeedTileBinding
+com/application/nuntium/local/NewsDatabase_Impl.java
+ com.application.nuntium.local.NewsDatabase_Impl
+ com.application.nuntium.local.NewsDatabase_Impl$1
+com/application/nuntium/databinding/ActivityIntro2Binding.java
+ com.application.nuntium.databinding.ActivityIntro2Binding
+com/application/nuntium/databinding/TileChoicesBinding.java
+ com.application.nuntium.databinding.TileChoicesBinding
+com/application/nuntium/databinding/FragmentRandomHomeBinding.java
+ com.application.nuntium.databinding.FragmentRandomHomeBinding
+com/application/nuntium/databinding/FragmentCategoriesBinding.java
+ com.application.nuntium.databinding.FragmentCategoriesBinding
+com/application/nuntium/databinding/ActivityLoginBinding.java
+ com.application.nuntium.databinding.ActivityLoginBinding

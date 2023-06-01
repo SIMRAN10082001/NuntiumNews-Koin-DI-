@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\news_feed_tile.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\news_feed_tile.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_web.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_business.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_business.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sport.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_sport.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_intro3.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_intro3.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recommended_plate.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\recommended_plate.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\img_card_home.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\img_card_home.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_random_home.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_random_home.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\source_file.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\source_file.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_intro2.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_intro2.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_choices.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_choices.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_category_chip.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\home_category_chip.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_saved.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_saved.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\imgcard.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\imgcard.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tile_choices.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\tile_choices.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_health.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_health.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_categories.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gaming.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_gaming.xml"
+    },
+    {
+        "merged": "D:\\kotlinproject\\Nuntium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_politics.xml",
+        "source": "D:\\kotlinproject\\Nuntium\\app\\src\\main\\res\\layout\\fragment_politics.xml"
+    }
+]
